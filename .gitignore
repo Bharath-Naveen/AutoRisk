@@ -1,0 +1,21 @@
+# Data files (can be large)
+data/
+*.csv
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+*.log
